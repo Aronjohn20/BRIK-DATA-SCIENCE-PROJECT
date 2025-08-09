@@ -6,17 +6,17 @@ This project involves processing and analyzing a dataset of college and universi
 
 Steps Performed:
 1. Data Processing
-*Imported the dataset containing institutional information.
-*Filtered the dataset to the first 10,000 rows for analysis.
-*Cleaned missing or inconsistent values.
+* Imported the dataset containing institutional information.
+* Filtered the dataset to the first 10,000 rows for analysis.
+* Cleaned missing or inconsistent values.
 
 2. Data Visualization
 Created multiple visualizations to identify patterns and insights, including:
-Bar Charts – Comparing public vs. private institutions, student enrollments, and top states by graduation rate.
-Pie Charts – Showing sector-wise retention rates and faculty composition.
-Scatter Plots – Analyzing relationships between median SAT scores and average financial aid.
+* Bar Charts – Comparing public vs. private institutions, student enrollments, and top states by graduation rate.
+* Pie Charts – Showing sector-wise retention rates and faculty composition.
+* Scatter Plots – Analyzing relationships between median SAT scores and average financial aid.
 
 Tools & Libraries Used
-Python – Data analysis & visualization.
-Pandas – Data cleaning and processing.
-Matplotlib – Data visualization.
+* Python – Data analysis & visualization.
+* Pandas – Data cleaning and processing.
+* Matplotlib – Data visualization.
